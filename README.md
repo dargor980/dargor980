@@ -4,7 +4,7 @@
 
 </p>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:10px;">
 
 [![GitHub followers](https://img.shields.io/github/followers/dargor980?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/S4IL21?tab=followers)
 
@@ -12,7 +12,7 @@
 
 </div>
 
-# German Contreras
+## 
 
 Building solutions, solving problems, and creating impact through practical software.
 

@@ -20,6 +20,7 @@
 
 - [x] Implement the README in plain Markdown.
 - [x] Add badges only where they improve scanability.
+- [x] Replace broken third-party GitHub stats widgets with stable GitHub links.
 - [ ] Verify all links.
 - [ ] Preview the README locally or on GitHub.
 - [ ] Check readability on a narrow viewport.
